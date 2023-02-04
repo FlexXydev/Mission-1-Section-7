@@ -21,7 +21,5 @@ const generateQuestion = (countries) => {
         possibilities
     };
 
-    console.log(question);
-
     return question
 }
