@@ -5,7 +5,7 @@ If you wont to try the game, here is the demo : http://saturnguesstheflag.000web
 
 # Preview :
 Here is a preview of the game :
-<img src="https://cdn.discordapp.com/attachments/1047551942710276107/1071422548639760434/image.png"/>
+<img src="img/image.png"/>
 
 # What is Section 7 ?
 Section 7 is a French developer community discord server. In this server their mission like this game.
